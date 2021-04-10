@@ -10,11 +10,7 @@
 
 #### Day:2
 6. [knapsack-with-duplicate.cpp](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
-
 7. [knapsack.cpp](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
-
 8. [maximum-sum-bitonic-sequence.cpp](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
-
 9. [longest-common-subsequence.cpp](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
-
 10. [egg-drop.cpp](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming)
