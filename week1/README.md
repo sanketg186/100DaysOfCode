@@ -46,7 +46,7 @@
 ### Day:7
 31. [nCr.cpp](https://practice.geeksforgeeks.org/problems/ncr1019/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 32. [painting-the-fence.cpp](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
-33. [sum-of-all-substrings-of-a-number.cpp](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?category[]=Dynamic Programming&category[]=Dynamic Programming&problemStatus=solved&page=1&query=category[]Dynamic ProgrammingproblemStatussolvedpage1category[]Dynamic Programming#)
+33. [sum-of-all-substrings-of-a-number.cpp](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 34. [temple-offerings.cpp](https://practice.geeksforgeeks.org/problems/temple-offerings2831/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 35. [ways-to-sum-to-n.cpp](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n5759/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 
