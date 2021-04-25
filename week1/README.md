@@ -34,4 +34,20 @@
 22. [edit-distance.cpp](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 23. [longest-common-substring.cpp](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
 24. [longest-repeating-subsequence.cpp](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
- 
+25. [maximize-the-cut-segments.cpp](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+
+### Day:6
+26. [interleaved-strings.cpp](https://practice.geeksforgeeks.org/problems/interleaved-strings/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+27. [largest-square-formed-matrix.cpp](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+28. [job-sequencing-problem.cpp](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+29. [count-subsequences-of-type-a^i, b^j, c^k.cpp](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+30. [minimize-n-as-per-given-condition.cpp](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+
+### Day:7
+31. [nCr.cpp](https://practice.geeksforgeeks.org/problems/ncr1019/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+32. [painting-the-fence.cpp](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+33. [sum-of-all-substrings-of-a-number.cpp](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?category[]=Dynamic Programming&category[]=Dynamic Programming&problemStatus=solved&page=1&query=category[]Dynamic ProgrammingproblemStatussolvedpage1category[]Dynamic Programming#)
+34. [temple-offerings.cpp](https://practice.geeksforgeeks.org/problems/temple-offerings2831/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+35. [ways-to-sum-to-n.cpp](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n5759/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=solved&page=1&query=category[]Dynamic%20ProgrammingproblemStatussolvedpage1category[]Dynamic%20Programming#)
+
+
