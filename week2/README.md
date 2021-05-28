@@ -26,3 +26,19 @@
 16. [preorder-traversal-iterative.cpp](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree#)
 17. [preorder-traversal.cpp](https://practice.geeksforgeeks.org/problems/preorder-traversal/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
 18. [size-binary-tree.cpp](https://practice.geeksforgeeks.org/problems/size-of-binary-tree/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree)
+19. [check-isomorphic.cpp](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+20. [diameter-binary-tree.cpp](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+
+#### Day:12
+21. [check-balanced-tree.cpp](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+22. [check-for-bst.cpp](https://practice.geeksforgeeks.org/problems/check-for-bst/1/?company[]=Amazon&amp;company[]=Amazon&amp;problemStatus=unsolved&amp;problemType=functional&amp;page=1&amp;sortBy=submissions&amp;query=company[]AmazonproblemStatusunsolvedproblemTypefunctionalpage1sortBysubmissionscompany[]Amazon)
+23. [lca-bst.cpp](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+24. [maximum-sum-non-adjacent-nodes.cpp](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree#)
+25. [postorder-from-inorder-and-preorder.cpp](https://practice.geeksforgeeks.org/problems/postorder-traversal-from-given-inorder-and-preorder-traversals/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree#)
+
+#### Day:13
+26. [root-leaf-paths-sum.cpp](https://practice.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+27. [sum-binary-tree.cpp ](https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree#)
+28. [sum-leaf-nodes.cpp](https://practice.geeksforgeeks.org/problems/sum-of-leaf-nodes/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&page=1&query=category[]TreeproblemStatusunsolvedpage1category[]Tree#)
+29. [transform-sum-tree.cpp](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/?category[]=Tree&category[]=Tree&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Treecompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Tree#)
+30. []()
