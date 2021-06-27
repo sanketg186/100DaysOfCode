@@ -19,5 +19,10 @@
 11. [remove-duplicate-elements-from-sorted-arr.cpp](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1/?company[]=Microsoft&company[]=Microsoft&problemStatus=solved&page=1&category[]=Arrays&query=company[]MicrosoftproblemStatussolvedpage1company[]Microsoftcategory[]Arrays#)
 12. [rotate-array.cpp](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays#)
 13. [sort-array-0s,1s,2s.cpp](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/?company[]=Microsoft&company[]=Microsoft&problemStatus=solved&page=1&category[]=Arrays&query=company[]MicrosoftproblemStatussolvedpage1company[]Microsoftcategory[]Arrays#)
-14. []()
-15. []()
+14. [majority-element.cpp](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays#)
+15. [stock-span-problem.cpp](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays)
+
+####Day: 18
+16. [top-k-frequent-elements-array.cpp](https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays#)
+17. [trapping-rain-water.cpp](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays#)
+18. [triplet-sum-in-array.cpp](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Microsoft&company[]=Microsoft&problemStatus=unsolved&page=1&query=category[]Arrayscompany[]MicrosoftproblemStatusunsolvedpage1company[]Microsoftcategory[]Arrays#)
